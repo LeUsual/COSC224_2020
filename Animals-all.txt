@@ -10,3 +10,7 @@ Turkey_Eric
 Gecko_Eric
 Whale_Eric
 Goldfish_Eric
+Shark_Nick
+Dragon_Nick
+HUMAN_Nick
+Reptile_From_MK_Nick
