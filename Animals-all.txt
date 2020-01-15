@@ -6,5 +6,7 @@ Dinosaur_Dio
 Grey-Horned-Owl_Dio
 Salmon_Dio
 Tiger_Dio
-
-
+Turkey_Eric
+Gecko_Eric
+Whale_Eric
+Goldfish_Eric
