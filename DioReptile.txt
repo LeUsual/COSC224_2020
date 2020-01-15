@@ -1,9 +1,4 @@
 1. Dinosaur_Dio
 2. Lizard_Keegan
-<<<<<<< HEAD
 3. Gecko_Eric
-4.
-=======
-3.
 4. Reptile_From_MK_Nick
->>>>>>> fd751aa4c12e85385189696d3ff347e20f72bfa9
