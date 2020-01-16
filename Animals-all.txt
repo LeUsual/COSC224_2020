@@ -10,14 +10,6 @@ Tiger_Dio
 
 
 
-
-
-
-
-
-
-
-
 Shark_Nick
 Dragon_Nick
 HUMAN_Nick
