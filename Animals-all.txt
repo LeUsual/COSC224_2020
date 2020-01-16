@@ -2,6 +2,11 @@ Cat_Keegan
 Lizard_Keegan
 Eagle_Keegan
 Guppy_Keegan
+Dinosaur_Dio
+Grey-Horned-Owl_Dio
+Salmon_Dio
+Tiger_Dio
+
 
 
 
